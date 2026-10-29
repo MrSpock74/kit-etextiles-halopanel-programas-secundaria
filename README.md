@@ -4,6 +4,8 @@ Programas de las 14 lecciones del tutorial del kit de costura electrónica ACEBO
 
 Material de apoyo de la formación del profesorado sobre el **Código Escuela 4.0** (CEP de Bollullos del Condado). La ficha didáctica del kit, con ejemplos por materia, está en el Google Sites del proyecto: https://sites.google.com/g.educaand.es/codigoescuela40-iesmurillo/kit-e-textiles
 
+Tutorial completo del fabricante (PDF, 118 páginas): [tutorial/tutorial-kit-textil-avanzado.pdf](tutorial/tutorial-kit-textil-avanzado.pdf)
+
 ## Cómo usarlos
 
 1. Conecta la placa por USB y pulsa **Reset dos veces** hasta que los NeoPixels se pongan en verde. Aparece una unidad llamada `CPLAYBOOT`.
@@ -47,5 +49,5 @@ Se pueden usar como ejercicio: "encuentra el error y corrígelo".
 
 ## Autoría y licencias
 
-- Los programas `.uf2` proceden del material de **ACEBOTT** (kit TA648, tutorial V1.2) y son suyos. Se incluyen sin modificar, con fines educativos.
+- El tutorial y los programas `.uf2` proceden del material de **ACEBOTT** (kit TA648, tutorial V1.2) y son suyos. Se incluyen sin modificar, con fines educativos.
 - Este README y el resto de documentación: Manuel Romero Fraidía (IES Murillo, Sevilla), licencia [CC BY-NC-SA 4.0](LICENSE.md).
